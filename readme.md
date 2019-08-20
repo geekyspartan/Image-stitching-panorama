@@ -16,4 +16,4 @@ Number parameter has the following values:
 * 3 - Homography Warping + Laplacian Blending
 * 4 - Cylindrical Warping + Laplacian Blending
 
-An output panorama view is saved after executing command.
+An output panorama view is saved in the same directory after above command is executed.
