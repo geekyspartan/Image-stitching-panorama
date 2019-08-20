@@ -9,7 +9,7 @@ Python command:
 
 > python main.py [Number] [Path of center image] [Path of right image] [Path of left image] ./
 
-Number is following:
+Number parameter has the following values:
 
 * 1 - Homography Warping 
 * 2 - Cylindrical Warping
