@@ -1,6 +1,6 @@
 # Image Alignment, Panoramas
 
-Implemented code to generate Panoramas for three images using Homography and Cylindrical warping.
+Implemented the method to generate Panoramas for three images using Homography and Cylindrical warping.
 
 
 To run code, execute the following command
