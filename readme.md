@@ -17,7 +17,3 @@ Number is following:
 * 4 - Cylindrical Warping + Laplacian Blending
 
 An output panorama view is saved after executing command.
-
-# Team
-[Anurag Arora](https://github.com/geekyspartan),
-[Renu Rani](https://github.com/techiepanda)
